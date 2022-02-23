@@ -26,6 +26,25 @@ layout: default
               {{ page.profile.address }}
             </div>
             {%- endif %}
+            <style>
+              .social {
+                float: left;
+              }
+            </style>
+
+            <div class="social">
+              <div class="contact-icons">
+              {% include social.html %}
+              </div>
+  
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+              
+            </div>
+
+            
+
           </div>
           {%- endif %}
 
@@ -58,16 +77,7 @@ layout: default
           
           {%- if page.social %}
           <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
-
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
-          </div>
+          
           {%- endif %}
         </article>
 
