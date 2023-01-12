@@ -22,10 +22,10 @@ social: true  # includes social icons at the bottom of the page
 
 ### Bio
 
-I'm a second year Ph.D student at the Department of Computer Science, Tsinghua University. I'm advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
+I'm a third-year Ph.D. candidate in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn), Department of Computer Science, Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 
 ### Research
 
-I have broad interests in natural language processing (in particular, language generation) and machine learning.
-
+I have broad research interests in natural language generation and machine learning. 
+I am particularly interested in techniques and theories to build robust and generalizable AI systems that can generate human-like natural language sans text degeneration in various scenario (e.g., open-ended generation, long text generation, imperfect training data, and etc.).
 
