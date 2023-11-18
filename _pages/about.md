@@ -29,4 +29,4 @@ I'm a penultimate-year Ph.D. candidate in [Conversational AI Group](http://coai.
 I have broad research interests in natural language generation and machine learning. 
 I am particularly interested in techniques and theories to build robust and generalizable AI systems that can generate human-like natural language.
 
-You can find my [**CV** here](assets/cv/Haozhe_Ji_resume.pdf).
+You can find my [CV here](assets/cv/Haozhe_Ji_resume.pdf).
